@@ -1,0 +1,3 @@
+model epoch 40 loss: 1.7016113258543468
+File parsed. Time:4.32
+Dict constructed. Time:12.04
